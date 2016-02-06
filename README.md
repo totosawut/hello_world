@@ -1,2 +1,2 @@
 # hello_world  
-Some additional info
+Some more additional info
